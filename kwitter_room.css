@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(#9e05eb 0%, #2905f5 100%);
+
+}
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+.header img
+{
+	width: 80px;margin-left: -15px;
+}
+#user_name{
+    width: 40%;
+    margin-left: 400px;
+    margin-right: 300px;
+    background-color: aqua;
+}
+#login_button{
+    width: 20%;
+}
+h1{
+    color: white;
+}
+h3{
+    color:white;
+}
+#output
+{
+    padding: 10px; 
+    width:80%;background: rgba(255,255,255,0.8);
+    border-radius: 15px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+#l{
+	font-size: 25px;
+}
+#room{
+    width: 50%;
+    margin-left: 325px;
+}
